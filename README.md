@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖Currently working on a Discord App for trading in a game.<br>📈I'm currently trying to learn TS and Java
+🤖Currently working on a Discord App along with a team for trading in a game.<br>📈I'm currently trying to learn TS and Java
 
 
 ## 🌐 Socials:
