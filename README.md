@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=ThatDudeKondd&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThatDudeKondd&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=thatdudekondd&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ThatDudeKondd&icon=1&color=5)](https://visitcount.itsvg.in)
