@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=ThatDudeKondd&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThatDudeKondd&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ThatDudeKondd&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ThatDudeKondd&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
